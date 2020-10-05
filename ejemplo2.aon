@@ -1,0 +1,22 @@
+(
+    <
+        [atributo_numerico] = 0,
+        [atributo_cadena] = "otra cadena",
+        [atributo_booleano] = true
+    >,
+    <
+        [atributo_numerico] = 4,
+        [atributo_cadena] = "adios cadena",
+        [atributo_booleano] = false
+    >,
+    <
+        [atributo_numerico] = -5.0245,
+        [atributo_cadena] = "la cadena, que necesito de ejemplo",
+        [atributo_booleano] = false
+    >
+    <
+        [atributo_numerico] = -2,
+        [atributo_cadena] = "elefante",
+        [atributo_booleano] = true
+    >
+)
